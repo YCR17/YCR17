@@ -276,7 +276,7 @@ Sistem Informasi Rumah Sakit untuk RS PKU Muhammadiyah Wonosobo. Modul: rawat in
 
 <br/>
 
-<img src="https://github-profile-trophy-kannan.vercel.app/?username=YCR17&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YCR17&theme=tokyonight" width="100%" />
 
 </div>
 
