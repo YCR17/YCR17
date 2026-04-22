@@ -88,7 +88,7 @@ Saya sangat antusias dengan pengelolaan server dan kontainerisasi:
 
 ## 📫 Get in Touch
 * [cite_start]**Official Website:** [ycr17.my.id](https://ycr17.my.id) [cite: 10]
-* [cite_start]**Email:** [yasir290507@gmail.com](mailto:yasir290507@gmail.com) [cite: 9]
+* [cite_start]**Email:** [ycrgroup17@gmail.com](mailto:ycrgroup17@gmail.com) [cite: 9]
 * [cite_start]**GitHub:** [github.com/YCR17](https://github.com/YCR17) [cite: 10]
 * [cite_start]**Location:** Kepil, Wonosobo (Open to Remote opportunities) [cite: 7]
 
