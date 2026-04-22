@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ahmad%20Aziz%20Muhyasir&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=YCR17%20%E2%80%94%20Fullstack%20Developer%20%26%20Infrastructure%20Enthusiast&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Ahmad+Aziz+Muhyasir&fontSize=40&fontColor=fff&fontAlignY=45" width="100%" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -325,16 +325,12 @@ Sistem Informasi Rumah Sakit untuk RS PKU Muhammadiyah Wonosobo. Modul: rawat in
 
 <div align="center">
 
-<!-- GitHub Activity Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YCR17/YCR17/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YCR17/YCR17/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/YCR17/YCR17/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
+<!-- GitHub Activity Graph — works immediately, no setup needed -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YCR17&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f97316&area=true&hide_border=true&area_color=1e3a5f" width="100%" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" />
 
 *"Logic will get you from A to B. Imagination will take you everywhere — and coding makes it happen."*
 
