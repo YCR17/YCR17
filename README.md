@@ -25,7 +25,7 @@
 
 I build and maintain web applications, APIs, and internal systems. Most of my work is around backend development with PHP, Laravel, CodeIgniter, and MySQL, alongside Linux-based infrastructure.
 
-I’m currently working on a hospital information system at [RS PKU Muhammadiyah Wonosobo](https://rspkuwonosobo.id) and contributing to the digitalization of school operations through the E-Sekolah platform. Outside of work, I explore self-hosted infrastructure and Indonesian-language AI/LLM projects.
+I’m currently working on a hospital information system at [RS PKU Muhammadiyah Wonosobo](https://rspkuwonosobo.id) and contributing to the AksaraLLM. Outside of work, I explore self-hosted infrastructure and Indonesian-language AI/LLM projects.
 
 <table>
   <tr>
