@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:164E63,100:0F172A&height=190&section=header&text=Ahmad%20Aziz%20Muhyasir&fontSize=36&fontColor=F8FAFC&fontAlignY=38&desc=Full-stack%20Web%20Developer%20%7C%20Backend%20%26%20Infrastructure&descSize=14&descAlignY=59&descColor=CBD5E1" width="100%" alt="Ahmad Aziz Muhyasir — Full-stack Web Developer" />
+
+<h1>Ahmad Aziz Muhyasir</h1>
+<p>
+  <strong>Full-stack Web Developer</strong>
+  <br/>
+  Backend Development · Infrastructure · System Architecture
+</p>
 
 <a href="https://ycr17.my.id"><img src="https://img.shields.io/badge/Website-ycr17.my.id-0F766E?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="https://blog.ycr17.my.id"><img src="https://img.shields.io/badge/Blog-read%20my%20notes-334155?style=flat-square&logo=hashnode&logoColor=white" alt="Blog" /></a>
